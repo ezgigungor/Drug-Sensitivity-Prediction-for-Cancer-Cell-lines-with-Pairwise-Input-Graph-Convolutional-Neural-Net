@@ -2,9 +2,8 @@
 
 ---
 
-Below there are 4 colab links for our project
 
-0. Cell-Line Data Preprocessing ipynb files can be found in repository
+0. Cell-Line Data Preprocessing notebooks can be found in repository
 
 1. *Colab Link For Cell-Line Data Setup :* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15xXZXPFaefLk2Fk8mKxuX3ULz3AALF49?usp=sharing)
 
@@ -34,7 +33,7 @@ Files that are larger then 100MB are below.(rest can be found in git repository)
 * [RdKit](https://www.rdkit.org/) - Open-Source Cheminformatics Software
 * [Keras-Tensorflow](https://www.tensorflow.org/) - An end-to-end open source machine learning platform
 ---
-# Drug-Sensitivity-Prediction-for-Cancer-Cell-lines-with-Pairwise-Input-Graph-Convolutional-Neural-Net
+# Drug Sensitivity Prediction for Cancer Cell-lines with Pairwise Input Graph Convolutional Neural Networks
 
 
 
@@ -52,4 +51,4 @@ Automated prediction of the inhibiting activity of drugs (and drug candidate mol
 
 ![ProjectDiagram](https://i.imgur.com/ILjKRP8.png)
 
-What we did in this project can be explained in 4 parts as shown in the figure 
+
